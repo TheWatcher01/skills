@@ -6,7 +6,6 @@ description: >
   Conventional Commit messages. Includes pre-commit security audit protecting against
   credential leaks and large binary commits. Use when the user says "commit",
   "smart commit", "save changes", "push", "git commit", or similar.
-license: MIT
 compatibility: Requires git. Works with any agent that can run shell commands.
 metadata:
   author: TheWatcher01
