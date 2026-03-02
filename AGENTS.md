@@ -2,7 +2,7 @@
 
 Agent Skills collection. Install: `npx skills add TheWatcher01/skills`
 
-## Available Skills (17)
+## Available Skills (24)
 
 | Skill | Category | Description |
 |-------|----------|-------------|
@@ -12,6 +12,13 @@ Agent Skills collection. Install: `npx skills add TheWatcher01/skills`
 | [web-artifacts-builder](skills/web-artifacts-builder/SKILL.md) | Dev | React+Tailwind+shadcn/ui web app scaffolding |
 | [mcp-builder](skills/mcp-builder/SKILL.md) | Dev | MCP server development guide |
 | [skill-creator](skills/skill-creator/SKILL.md) | Dev | Meta-skill for creating new skills |
+| [mastra-workflows](skills/mastra-workflows/SKILL.md) | Dev | DAG workflows with Mastra 1.x |
+| [agentic-workspace](skills/agentic-workspace/SKILL.md) | Agent | VS Code agentic architecture setup |
+| [workflows-creator](skills/workflows-creator/SKILL.md) | Agent | Chainskills workflow creation |
+| [deep-research](skills/deep-research/SKILL.md) | Research | Systematic deep research methodology |
+| [data-freshness-check](skills/data-freshness-check/SKILL.md) | Research | Data accuracy and freshness verification |
+| [pwa-user-simulation](skills/pwa-user-simulation/SKILL.md) | Research | PWA user journey simulation via MCPs |
+| [ui-neuro-ergo](skills/ui-neuro-ergo/SKILL.md) | Research | Neuro-ergonomic + a11y UI audit |
 | [algorithmic-art](skills/algorithmic-art/SKILL.md) | Creative | p5.js generative art |
 | [canvas-design](skills/canvas-design/SKILL.md) | Creative | Visual design with canvas/SVG |
 | [brand-guidelines](skills/brand-guidelines/SKILL.md) | Creative | Brand identity system |

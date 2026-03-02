@@ -10,7 +10,7 @@ Skills follow the [Agent Skills](https://agentskills.io/) specification.
 npx skills add TheWatcher01/skills
 ```
 
-## Available Skills (17)
+## Available Skills (24)
 
 ### Development & Technical
 
@@ -22,6 +22,23 @@ npx skills add TheWatcher01/skills
 | [mcp-builder](skills/mcp-builder/SKILL.md) | Guide for creating high-quality MCP servers (Python FastMCP or Node/TypeScript) |
 | [smart-commit](skills/smart-commit/SKILL.md) | Security-aware Git commits with Conventional Commits format |
 | [skill-creator](skills/skill-creator/SKILL.md) | Meta-skill for creating effective new skills |
+| [mastra-workflows](skills/mastra-workflows/SKILL.md) | Build DAG workflows with Mastra 1.x — step chaining, parallel, branching, loops, suspend/resume |
+
+### Agent & Workspace Architecture
+
+| Skill | Description |
+|-------|-------------|
+| [agentic-workspace](skills/agentic-workspace/SKILL.md) | Set up SOTA agentic architectures in VS Code — agent hierarchy, skills ecosystem, context engineering |
+| [workflows-creator](skills/workflows-creator/SKILL.md) | Create state-of-the-art chainskills workflows following MCP and agent skills standards |
+
+### Research & Quality Assurance
+
+| Skill | Description |
+|-------|-------------|
+| [deep-research](skills/deep-research/SKILL.md) | Systematic deep research methodology — web, GitHub, community, docs. SOTA analysis, technology evaluation |
+| [data-freshness-check](skills/data-freshness-check/SKILL.md) | Verify data accuracy and freshness during web research — sourced, timestamped, cross-referenced |
+| [pwa-user-simulation](skills/pwa-user-simulation/SKILL.md) | Simulate real user journeys through a PWA using Playwright + Chrome DevTools MCPs, SXO audit |
+| [ui-neuro-ergo](skills/ui-neuro-ergo/SKILL.md) | Neuro-ergonomic + accessibility UI audit — WCAG 2.2 AA, cognitive science, screenshot loop |
 
 ### Creative & Design
 
@@ -64,7 +81,7 @@ Each skill contains:
 Skills in this collection are adapted from multiple sources:
 
 - **[anthropics/skills](https://github.com/anthropics/skills)** — Adapted for cross-agent compatibility (Claude-specific references removed)
-- **Custom skills** — Original skills by TheWatcher01
+- **Custom skills** — Original skills by TheWatcher01 (agentic-workspace, data-freshness-check, deep-research, mastra-workflows, pwa-user-simulation, ui-neuro-ergo, workflows-creator)
 
 ## License
 
