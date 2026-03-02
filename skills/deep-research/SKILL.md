@@ -1,6 +1,6 @@
 ---
 name: deep-research
-description: Systematic deep research methodology for complex tasks requiring comprehensive web, GitHub, community, and documentation research. Use when: deep dive, comprehensive research, SOTA analysis, technology evaluation, architecture decisions, library comparison, migration planning, complex debugging, best practices audit, prior art search, unfamiliar patterns, competitive analysis, security audit research.
+description: "Systematic deep research methodology for complex tasks requiring comprehensive web, GitHub, community, and documentation research. Use when: deep dive, comprehensive research, SOTA analysis, technology evaluation, architecture decisions, library comparison, migration planning, complex debugging, best practices audit, prior art search, unfamiliar patterns, competitive analysis, security audit research."
 ---
 
 # Deep Research Skill
