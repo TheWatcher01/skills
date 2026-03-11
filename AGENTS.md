@@ -2,7 +2,7 @@
 
 Agent Skills collection. Install: `npx skills add TheWatcher01/skills`
 
-## Available Skills (24)
+## Available Skills (32)
 
 | Skill | Category | Description |
 |-------|----------|-------------|
@@ -30,6 +30,14 @@ Agent Skills collection. Install: `npx skills add TheWatcher01/skills`
 | [xlsx](skills/xlsx/SKILL.md) | Document | Excel spreadsheets |
 | [doc-coauthoring](skills/doc-coauthoring/SKILL.md) | Document | Structured doc co-authoring workflow |
 | [internal-comms](skills/internal-comms/SKILL.md) | Comms | Internal communications templates |
+| [prompt-engineering-sota](skills/prompt-engineering-sota/SKILL.md) | SOTA | 40+ prompting techniques (CoT, ToT, ReAct, meta-prompting) |
+| [context-engineering](skills/context-engineering/SKILL.md) | SOTA | Context window optimization — Karpathy 6-layer model |
+| [security-audit-agent](skills/security-audit-agent/SKILL.md) | Security | Agentic security auditing — OWASP, prompt injection, supply chain |
+| [agent-patterns](skills/agent-patterns/SKILL.md) | Agent | SOTA agent architectures (chaining, routing, orchestrator, evaluator) |
+| [code-review-agent](skills/code-review-agent/SKILL.md) | Dev | Security-first code review — P0-P3 checklist, Rust/Python/TS |
+| [research-agent](skills/research-agent/SKILL.md) | Research | Systematic deep research — source hierarchy, validation, synthesis |
+| [devops-agent](skills/devops-agent/SKILL.md) | DevOps | Docker, GitHub Actions, systemd, secrets management |
+| [free-llm-rotation](skills/free-llm-rotation/SKILL.md) | Agent | Free LLM providers — OpenRouter, Groq, Ollama, Cerebras guide |
 
 ## Structure
 
